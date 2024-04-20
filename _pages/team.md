@@ -1,14 +1,12 @@
 ---
-title: "Team | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "Team | Evidence-based Comparative Politics Research Unit | University of Münster and Aarhus University"
 layout: gridlay
-excerpt: "Team | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
-sitemap: false
+excerpt: "Team | Evidence-based Comparative Politics Research Unit | University of Münster and Aarhus University"
+sitemap: true
 permalink: /team/
 ---
 
 # Group Members
-
-**If you are interested in either a Ph.D. or postdoctoral position please get in touch! There is currently an opening for a postdoc/RA!**
 
 ## Staff
 
