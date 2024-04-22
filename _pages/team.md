@@ -65,7 +65,6 @@ permalink: /team/
 
   </ul>
   <br>
-  <br>
   <i>{{ member.bio }}</i>
 </div>
 
