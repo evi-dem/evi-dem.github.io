@@ -45,8 +45,6 @@ We are a research unit seeking to understand contemporary political developments
   </a>
 </div>
 
-The group is headed by [Daniel Bischof](https://www.danbischof.com/) and based at the [University of Münster](https://www.uni-muenster.de/en/) and [Aarhus University ](https://international.au.dk/).    
-
 
 **Social Norms and Democracy**  
 Journalists and academics suggest frequently that "democratic norms" among the public and political elites are eroding. But what do we mean conceptually when referring to norms in the context of democracy and democratic values? Which role do they play for democratic stability? And which factors affect the rise and fall of democratic norms? We provide answers to these questions conceptualizing and mapping social norms in democracy across 14 countries. For more information please see: [DEMNORM project](https://demnorm.github.io/)
@@ -59,5 +57,8 @@ How does perceptions of others drive individuals’ preferences and behavior? An
 
 **The responsiveness by political elites to public opinion signals**  
 Does protest in contemporary democracies matter? Do political elites react to protest? 
+
+The group is headed by [Daniel Bischof](https://www.danbischof.com/) and based at the [University of Münster](https://www.uni-muenster.de/en/) and [Aarhus University ](https://international.au.dk/).    
+
 
 <br>
