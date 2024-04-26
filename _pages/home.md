@@ -30,7 +30,7 @@ We are a research unit seeking to understand contemporary political developments
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lpf_entrance.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/inequality.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/m5s.png" alt="Slide 3" />
         </div>
         <!-- Copy more of these for more images....  -->
     </div>
