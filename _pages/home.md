@@ -48,6 +48,6 @@ We are a research group seeking to understand contemporary political development
 
 The group is headed by [Daniel Bischof](https://www.danbischof.com/) and based at the [University of Münster](https://www.uni-muenster.de/en/) and [Aarhus University](https://international.au.dk/).    
 
-To learn more about our research projects and individual expertise please look under [team](https://compev-unit.github.io/team/) and [research](https://compev-unit.github.io/research/)
+To learn more about our research projects and individual expertise please look under [team](https://compev-unit.github.io/team/) and [research]({{ site.url }}/research/)! 
 
 <br>
