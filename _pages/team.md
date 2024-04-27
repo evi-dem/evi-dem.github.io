@@ -1,7 +1,7 @@
 ---
-title: "Team | Evidence-based Comparative Politics Research Unit | University of Münster and Aarhus University"
+title: "Team | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
 layout: gridlay
-excerpt: "Team | Evidence-based Comparative Politics Research Unit | University of Münster and Aarhus University"
+excerpt: "Team | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
 sitemap: true
 permalink: /team/
 ---

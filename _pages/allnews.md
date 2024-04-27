@@ -1,7 +1,7 @@
 ---
-title: "News | Evidence-based Comparative Politics Research Unit | University of Münster and Aarhus University"
+title: "News | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
 layout: textlay
-excerpt: "News | Evidence-based Comparative Politics Research Unit | University of Münster and Aarhus University"
+excerpt: "News | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
 sitemap: true
 permalink: /allnews.html
 ---

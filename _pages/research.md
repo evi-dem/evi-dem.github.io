@@ -1,22 +1,27 @@
 ---
-title: "Research | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "Research | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
 layout: textlay
-excerpt: "Research | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
-sitemap: false
+excerpt: "Research | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
+sitemap: true
 permalink: /research/
 ---
 
 # Research
 
-The Complex Additive Materials Group uses materials chemistry, additive manufacturing, and machine learning to realise entirely new devices and materials whose structure and composition is optimised from the nano- to the macro-scale to improve interaction with the human body and enhance lives.
+As a group we seek to identify the contemporary challenges to liberal democracies, how these are shaped politically and socially, and which instruments democracies can rely on to contain said challenges. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/venn_diagram.jpg){: style="width: 300px; float: right; border: 10px"}
+All our research relies on state of the art research methods, mostly quantitative, experimental designs that aim to rigorously test our theoretical claims. To us this makes our research evidence-based. We also cover large grounds in terms of our country expertise, mainly focusing on advanced democracies -- such as Germany, the USA, Denmark, France or Italy. 
 
-**Digitally tailored medical devices**  
-Producing wearable and implantable medical devices that better mimic and integrate with patients/wearers.
+The key topics we focus on are outlined below. You can learn also more about our individual expertise by looking into our [team overview](https://compev-unit.github.io/team/):
 
-**Materials for additive manufacturing**  
-Developing new materials whose structure and composition enable unique functionality.
+**Social Norms and Democracy**  
+Journalists and academics suggest frequently that "democratic norms" among the public and political elites are eroding. But what do we mean conceptually when referring to norms in the context of democracy and democratic values? Which role do they play for democratic stability? And which factors affect the rise and fall of democratic norms? We provide answers to these questions conceptualizing and mapping social norms in democracy across 14 countries. For more information please see: [DEMNORM project](https://demnorm.github.io/)
 
-**Learning 3D printers**  
-Understanding how machine learning approaches can improve the capabilities of 3D printers.
+**The causes and consequences for the rise of extremism** 
+The rise of extreme actors, on the streets as well as in political institutions, is ongoing in many contemporary democracies. What are the causes of this rise? And what will be the consequences? Studying the behavior by ordinary citizens as well as democratic elites, we shed light onto these questions. For more information please see for instance: [The Causes & Consequences of Extreme Party Entrance](https://extremeentrance.github.io/)
+
+**(Mis-)perception of Others and Political Preferences** 
+How does perceptions of others drive individuals’ preferences and behavior? And where do these perceptions about others come from? A key lens through which citizens understand economic and political inequalities is not based on actual disparities but rather on their perceptions of their own economic well-being and that of others. This means that even if policies effectively reduce economic hardship, there may not be an immediate adjustment in citizens’ perceptions corresponding to the actual decrease in inequality. Therefore, our first step should be to gain a deeper understanding of the origins of these perceptions of inequality. Then, as a second step, we can examine how these perceptions influence individual preferences and behavior.
+
+**The responsiveness by political elites to public opinion signals**  
+Does protest in contemporary democracies matter? Do political elites react to protest? 

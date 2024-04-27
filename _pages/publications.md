@@ -1,8 +1,8 @@
 ---
-title: "Publications | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "Publications | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
 layout: gridlay
-excerpt: "Publications | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
-sitemap: false
+excerpt: "Publications | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
+sitemap: true
 permalink: /publications/
 ---
 
