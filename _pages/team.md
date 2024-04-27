@@ -28,7 +28,8 @@ permalink: /team/
   <i>{{ member.info }}</i>
   <br>
   <i>email: <{{ member.email }}></i>
-  <i>webpage: <{{ member.page }}></i>
+  <br>
+  <i>webpage: <{{ member.webpage }}></i>
   <ul style="overflow: hidden">
 
 {% if member.number_educ == 1 %}
