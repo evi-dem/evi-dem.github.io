@@ -14,60 +14,70 @@
 
 - name: Morgan Le Corre Juratic
   photo: juratic.jpg
-  info: Postdoc @ Aarhus University
+  position: Postdoc
+  info: Aarhus University
   email: morgan.lcj@ps.au.dk
-  bio: <br> Morgan is a post-doctoral researcher at Aarhus University and was previously a PhD researcher at the European University Institute. Her research focuses on polarization and current challenges to democracies. In her dissertation, she studied the consequences of party polarization for citizens’ political behavior in Europe. Her current research agenda focuses on the role of elites in shifting democratic norms. She is specialized in mixed-methods designs and uses experiments, computational text analysis, and qualitative focus groups analysis. Her broad research interests include party competition, political behavior, and public opinion.
+  bio: Morgan is a post-doctoral researcher at Aarhus University and was previously a PhD researcher at the European University Institute. Her research focuses on polarization and current challenges to democracies. In her dissertation, she studied the consequences of party polarization for citizens’ political behavior in Europe. Her current research agenda focuses on the role of elites in shifting democratic norms. She is specialized in mixed-methods designs and uses experiments, computational text analysis, and qualitative focus groups analysis. Her broad research interests include party competition, political behavior, and public opinion.
 
 - name: Elena Leuschner
   photo: leuschner.jpg
-  info: Postdoc @ University of Münster (starting 2025)
+  position: Postdoc
+  info: University of Münster (starting 2025)
   email: elena.leuschner@gu.se
-  bio: <br> Starting spring 2025 Elena will be a Postdoctoral Fellow at the University of Münster. She currently writes up her doctoral studies at the University of Gothenburg and has been a visiting fellow at the Berlin Social Science Center (WZB) and the University of Oxford. At the intersection between comparative politics and political behavior, Elena studies protests and when politicians or governments are responsive to protesters’ demands. In her research, she employs various methods, such as survey experiments with political elites, econometric modeling, or quantitative text analysis.
+  bio: Starting spring 2025 Elena will be a Postdoctoral Fellow at the University of Münster. She currently writes up her doctoral studies at the University of Gothenburg and has been a visiting fellow at the Berlin Social Science Center (WZB) and the University of Oxford. At the intersection between comparative politics and political behavior, Elena studies protests and when politicians or governments are responsive to protesters’ demands. In her research, she employs various methods, such as survey experiments with political elites, econometric modeling, or quantitative text analysis.
 
 - name: Mirko Wegemann
   photo: wegemann.png
-  info: Postdoc @ University of Münster (starting 2024)
+  position: Postdoc
+  info: University of Münster (starting 2024)
   email: Mirko.Wegemann@eui.eu 
-  bio: <br> Mirko will start in fall 2024 as a Postdoctoral Fellow at the University of Münster. Currently, Mirko is finalizing his thesis at the European University Institute in Florence. He was a visiting fellow at the University of Vienna and the Humboldt University of Berlin. Mirko studies changing patterns of party competition in Western Europe, with a focus on challenger parties’ programmatic evolution. In addition, he delves into the role of gender in politics and citizens' perceptions of policy justifications. In his research, he employs various methods such as survey experiments and natural language processing. 
+  bio: Mirko will start in fall 2024 as a Postdoctoral Fellow at the University of Münster. Currently, Mirko is finalizing his thesis at the European University Institute in Florence. He was a visiting fellow at the University of Vienna and the Humboldt University of Berlin. Mirko studies changing patterns of party competition in Western Europe, with a focus on challenger parties’ programmatic evolution. In addition, he delves into the role of gender in politics and citizens' perceptions of policy justifications. In his research, he employs various methods such as survey experiments and natural language processing. 
 
 - name: Tim Lars Allinger
   photo: allinger.jpg
-  info: PhD Student @ Aarhus University
+  position: PhD Student
+  info: Aarhus University
   email: allinger@ps.au.dk
-  bio: <br> Tim is a Ph.D. candidate at the Department of Political Science at Aarhus University and a visiting scholar at Princeton University (Spring 2024). In his research, he studies the causes of political extremism and its consequences for democracy and society more generally. Specifically, he seeks to understand what factors make citizens justify violence against minority groups, and under which conditions this translates into intolerant and extreme forms of behavior. To answer these questions, his research relies on diverse quantitative methods with a focus on innovative experimental and quasi-experimental designs.
+  bio: Tim is a Ph.D. candidate at the Department of Political Science at Aarhus University and a visiting scholar at Princeton University (Spring 2024). In his research, he studies the causes of political extremism and its consequences for democracy and society more generally. Specifically, he seeks to understand what factors make citizens justify violence against minority groups, and under which conditions this translates into intolerant and extreme forms of behavior. To answer these questions, his research relies on diverse quantitative methods with a focus on innovative experimental and quasi-experimental designs.
 
 - name: Raphaël Lagrange
   photo: lagrange.jpg
-  info: Research Assistant @ Aarhus University 
+  position: Research Assistant
+  info: Aarhus University 
   email: raphael.lagrange@sciencespo.fr
-  bio: <br> Raphaël is a research assistant in political science at Aarhus University. After graduating from Sciences Po, he is exploring how representatives survey public opinion and how their interactions with constituents influence their reception of citizens' opinions.
+  bio: Raphaël is a research assistant in political science at Aarhus University. After graduating from Sciences Po, he is exploring how representatives survey public opinion and how their interactions with constituents influence their reception of citizens' opinions.
 
 - name: Maximilian Petersen
   photo: petersen.jpg
-  info: Research Assistant & Coordinating Tutor @ University of Münster
+  position: Research Assistant & Coordinating Tutor 
+  info: University of Münster
   email: max.petersen@uni-muenster.de
   bio: 
 
 - name: Christopher Eing
   photo: eing.jpeg
-  info: Tutor @ University of Münster
+  position: Tutor 
+  info: University of Münster
   email: christopher.eing@uni-muenster.de
   bio: 
 
 - name: Luka Johannes Foellmer
   photo: male.jpg
-  info: Tutor @ University of Münster
+  position: Tutor 
+  info: University of Münster
   email: lfoellme@uni-muenster.de
   bio: 
 
 - name: Henrike Jost
   photo: female.jpeg
-  info: Tutor @ University of Münster
+  position: Tutor 
+  info: University of Münster
   email: hjost@uni-muenster.de
   bio:  
 
 - name: Pauline Jost
   photo: female.jpeg
-  info: Tutor @ University of Münster
+  position: Tutor 
+  info: University of Münster
   email: pjost@uni-muenster.de
   bio: 
