@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University
+title: Evidence-based Comparative Politics Research Group
 tagline: >
   Researching politics in comparative perspective using experimental methods
   Comparative Politics, social norms, and experimental methods
@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   on major public concerns coming with it such as lack of representation 
   by political elites and the raise of extremism more generally.
 baseurl: ""
-url: "https://compev-unit.github.io"
+url: "https://compev-unit.github.io/"
 lang: en_GB
 
 include:
@@ -49,5 +49,13 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+    
 plugins:
   - jekyll-seo-tag
+  - jekyll-scholar
+
+scholar:
+  bibliography: _bibliography/merged.bib
+  sort_by: year
+  order: descending
+  source: _bibliography
