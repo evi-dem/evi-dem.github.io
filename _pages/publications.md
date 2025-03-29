@@ -60,6 +60,6 @@ permalink: /publications/
 {{ publi.title }} <br />
 <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
-{% endfor %}-->
+{% endfor %}
 
-{% bibliography --file merged --sort-by year --order descending %}
+{% bibliography --file merged --sort-by year --order descending %}-->
