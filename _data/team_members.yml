@@ -1,0 +1,89 @@
+- name: Daniel Bischof
+  photo: bischof.png
+  position: Professor & Associate Professor
+  info: University of Münster & Aarhus University
+  email: db@danbischof.com 
+  bio: Since 2023 Daniel has been Professor of Comparative Politics at the University of Münster as well as Associate Professor of Politics at Aarhus University. Prior to that, Daniel has been an SNF Ambizione (2019-2023) and postdoctoral fellow (2015-2019) at the University of Zurich. He conducted his PhD studies at the University of Leicester (UK) and held various visiting positions at Harvard University, the European University Institute and the University of California, San Diego among others. His research mainly seeks to understand the role of social norms for political behavior in contemporary democracies. 
+  website: https://www.danbischof.com/
+
+- name: Kristian Vrede Skaaning Frederiksen
+  photo: skaaning.jpg
+  position: Assistant Professor 
+  info: Aarhus University
+  email: ksf@ps.au.dk
+  bio: Kristian is Assistant Professor at Aarhus University, Department of Political Science. In his research, he primarily seeks to answer why citizens sometimes support politicians who break democratic principles, why citizens sometimes oppose democratic norm violations, and shed light on citizens’ involvement in processes of both democratic backsliding and restoration. He has fielded several cross-country survey experiments to answer such questions. Besides these specific research interests, his broader interest is comparative politics, political behavior, and causal inference. 
+  website: https://sites.google.com/view/kristianfrederiksen
+ 
+- name: Morgan Le Corre Juratic
+  photo: juratic.jpg
+  position: Postdoc
+  info: Aarhus University
+  email: morgan.lcj@ps.au.dk
+  bio: Morgan is a post-doctoral researcher at Aarhus University and was previously a PhD researcher at the European University Institute. Her research focuses on polarization and current challenges to democracies. In her dissertation, she studied the consequences of party polarization for citizens’ political behavior in Europe. Her current research agenda focuses on the role of elites in shifting democratic norms. She is specialized in mixed-methods designs and uses experiments, computational text analysis, and qualitative focus groups analysis. Her broad research interests include party competition, political behavior, and public opinion.
+  website: https://www.morganlecorrejuratic.com/
+
+- name: Elena Leuschner
+  photo: leuschner.jpg
+  position: Postdoc
+  info: University of Münster 
+  email: elena.leuschner@uni-muenster.de
+  bio: Elena is a post-doctoral researcher at the University of Münster. She was previously a PhD researcher at the University of Gothenburg and has been a visiting fellow at the Berlin Social Science Center (WZB) and the University of Oxford. At the intersection between comparative politics and political behavior, Elena studies protests and when politicians or governments are responsive to protesters’ demands. In her research, she employs various methods, such as survey experiments with political elites, econometric modeling, or quantitative text analysis.
+  website: https://elenaleuschner.github.io/
+
+- name: Mirko Wegemann
+  photo: wegemann.png
+  position: Postdoc
+  info: University of Münster
+  email: m.wegemann@uni-muenster.de
+  bio: Mirko is a post-doctoral researcher at the University of Münster. He was previously a PhD researcher at theEuropean University Institute in Florence and a visiting fellow at the University of Vienna and the Humboldt University of Berlin. Mirko studies changing patterns of party competition in Western Europe, with a focus on challenger parties’ programmatic evolution. In addition, he delves into the role of gender in politics and citizens' perceptions of policy justifications. In his research, he employs various methods such as survey experiments and natural language processing. 
+  website: https://mirko-wegemann.github.io/
+
+- name: Tim Lars Allinger
+  photo: allinger.jpg
+  position: PhD Student
+  info: Aarhus University
+  email: allinger@ps.au.dk
+  bio: Tim is a Ph.D. candidate at the Department of Political Science at Aarhus University and a visiting scholar at Princeton University (Spring 2024). In his research, he studies the causes of political extremism and its consequences for democracy and society more generally. Specifically, he seeks to understand what factors make citizens justify violence against minority groups, and under which conditions this translates into intolerant and extreme forms of behavior. To answer these questions, his research relies on diverse quantitative methods with a focus on innovative experimental and quasi-experimental designs.
+  website: https://tim-allinger.github.io/
+
+- name: Raphaël Lagrange
+  photo: lagrange.jpg
+  position: Research Assistant
+  info: Aarhus University 
+  email: raphael.lagrange@sciencespo.fr
+  bio: Raphaël is a research assistant in political science at Aarhus University. After graduating from Sciences Po, he is exploring how representatives survey public opinion and how their interactions with constituents influence their reception of citizens' opinions.
+
+- name: Maximilian Petersen
+  photo: petersen.jpg
+  position: Research Assistant & Coordinating Tutor 
+  info: University of Münster
+  email: max.petersen@uni-muenster.de
+  bio: 
+
+- name: Christopher Eing
+  photo: eing.jpeg
+  position: Tutor 
+  info: University of Münster
+  email: christopher.eing@uni-muenster.de
+  bio: 
+
+- name: Luka Johannes Foellmer
+  photo: icon.png
+  position: Tutor 
+  info: University of Münster
+  email: lfoellme@uni-muenster.de
+  bio: 
+
+- name: Henrike Jost
+  photo: icon.png
+  position: Tutor 
+  info: University of Münster
+  email: hjost@uni-muenster.de
+  bio:  
+
+- name: Pauline Jost
+  photo: icon.png
+  position: Tutor 
+  info: University of Münster
+  email: pjost@uni-muenster.de
+  bio: 
