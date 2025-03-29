@@ -53,3 +53,9 @@ kramdown:
 plugins:
   - jekyll-seo-tag
   - jekyll-scholar
+
+scholar:
+  bibliography: _bibliography/merged.bib
+  sort_by: year
+  order: descending
+  source: _bibliography
