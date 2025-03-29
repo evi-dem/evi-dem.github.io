@@ -52,6 +52,7 @@
   info: Aarhus University 
   email: raphael.lagrange@sciencespo.fr
   bio: Raphaël is a research assistant in political science at Aarhus University. After graduating from Sciences Po, he is exploring how representatives survey public opinion and how their interactions with constituents influence their reception of citizens' opinions.
+  website: 
 
 - name: Maximilian Petersen
   photo: petersen.jpg
@@ -59,31 +60,36 @@
   info: University of Münster
   email: max.petersen@uni-muenster.de
   bio: 
-
+  website: 
+  
 - name: Christopher Eing
   photo: eing.jpeg
   position: Tutor 
   info: University of Münster
   email: christopher.eing@uni-muenster.de
   bio: 
-
+  website: 
+  
 - name: Luka Johannes Foellmer
   photo: icon.png
   position: Tutor 
   info: University of Münster
   email: lfoellme@uni-muenster.de
   bio: 
-
+  website: 
+  
 - name: Henrike Jost
   photo: icon.png
   position: Tutor 
   info: University of Münster
   email: hjost@uni-muenster.de
   bio:  
-
+  website: 
+  
 - name: Pauline Jost
   photo: icon.png
   position: Tutor 
   info: University of Münster
   email: pjost@uni-muenster.de
   bio: 
+  website: 

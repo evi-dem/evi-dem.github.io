@@ -29,8 +29,8 @@ permalink: /team/
   <br>
   <i>email: <{{ member.email }}></i>
   <br>
-  <i>website: <{{ member.website }}></i>
-  <ul style="overflow: hidden">
+  {% if member.website %}<i> website: <{{ member.website }}></i>{% else %}{% endif %} 
+<ul style="overflow: hidden">
 
 {% if member.number_educ == 1 %}
 
