@@ -6,7 +6,7 @@ sitemap: true
 permalink: /
 ---
 
-We are a research group seeking to understand contemporary political developments in democracies using a comparative perspective. Democracies are facing a variety of challenges, many home-made by political elites, their institutions, and their citizens. Using a design-based approach to research we study several of these challenges such as the rise of extremism, the role of norms for democracies, challenges to minority inclusion, and why undemocratic elites find support by voters.   
+We are a research group seeking to understand contemporary political developments in democracies using a comparative perspective. Democracies are facing a variety of challenges, many of which are self-inflicted by their political elites, institutions, and citizens. Using a design-based research approach, we study several of these challenges, including the rise of extremism, the role of norms in democracies, challenges to minority inclusion, and the reasons why undemocratic elites gain voter support.   
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -46,8 +46,8 @@ We are a research group seeking to understand contemporary political development
 </div>
 
 
-The group is headed by [Daniel Bischof](https://www.danbischof.com/) and based at the [University of Münster](https://www.uni-muenster.de/en/) and [Aarhus University](https://international.au.dk/).    
+The group is led by [Daniel Bischof](https://www.danbischof.com/) and based at the [University of Münster](https://www.uni-muenster.de/en/) and [Aarhus University](https://international.au.dk/).    
 
-To learn more about our research projects and individual expertise please look under [team]({{ site.url }}/team/) and [research]({{ site.url }}/research/)! 
+To learn more about our research projects and the individual areas of expertise of our team members, please look under [team]({{ site.url }}/team/) and [research]({{ site.url }}/research/)! 
 
 <br>
