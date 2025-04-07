@@ -7566,7 +7566,7 @@ figcaption {
 /* For mobile screens (max-width: 768px) */
 @media (max-width: 768px) {
   .navbar-brand {
-    font-size: 1.5rem; /* Smaller font size */
+    font-size: 1rem; /* Smaller font size */
     padding: 1.2rem 1.2rem; /* Adjust padding */
   }
 }
@@ -7579,7 +7579,7 @@ figcaption {
 /* Adjust on mobile */
 @media (max-width: 768px) {
   .navbar {
-    font-size: 0.8rem; /* Smaller font size for mobile */
+    font-size: 1rem; /* Smaller font size for mobile */
   }
 }
 p.byline {
