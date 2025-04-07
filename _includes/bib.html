@@ -1,0 +1,30 @@
+<li>
+  {% if entry.author %}
+    {{ entry.author | join: ", " }},
+  {% endif %}
+
+  {% if entry.title %}
+    "<strong>{{ entry.title }}</strong>",
+  {% endif %}
+
+  {% if entry.journal %}
+    <em>{{ entry.journal }}</em>,
+  {% endif %}
+
+  {% if entry.booktitle %}
+    <em>{{ entry.booktitle }}</em>,
+  {% endif %}
+
+  {% if entry.year %}
+    {{ entry.year }}.
+  {% endif %}
+
+  {% if entry.doi %}
+    <a href="https://doi.org/{{ entry.doi }}">DOI</a>
+  {% endif %}
+
+  {% if entry.url %}
+    {% if entry.doi %} | {% endif %}
+    <a href="{{ entry.url }}">Link</a>
+  {% endif %}
+</li>

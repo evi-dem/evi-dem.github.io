@@ -62,4 +62,4 @@ permalink: /publications/
 
 {% endfor %}-->
 
-{% bibliography --file merged --sort-by year --order descending %}
+{% bibliography --file merged --template bib --sort-by year --order descending %}

@@ -55,7 +55,8 @@ plugins:
   - jekyll-scholar
 
 scholar:
-  bibliography: _bibliography/merged.bib
   sort_by: year
   order: descending
   source: _bibliography
+  bibliography: merged.bib
+  bibliograpy_template: _layouts/bib  
