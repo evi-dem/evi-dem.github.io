@@ -31,8 +31,10 @@ figcaption {
 /* For mobile screens (max-width: 768px) */
 @media (max-width: 768px) {
   .navbar-brand {
-    font-size: 1rem; /* Smaller font size */
+    font-size: 1.2rem; /* Smaller font size */
     padding: 1.2rem 1.2rem; /* Adjust padding */
+	padding-bottom: -0.2rem; /* Decrease this to shrink the space */
+
   }
 }
 
@@ -47,7 +49,17 @@ figcaption {
 /* Adjust on mobile */
 @media (max-width: 768px) {
   .navbar {
-    font-size: 1rem; /* Smaller font size for mobile */
+    font-size: 1.2rem; /* Smaller font size for mobile */
+	padding-bottom: 0rem; /* Decrease this to shrink the space */
+
+  }
+}
+
+
+@media (max-width: 768px) {
+  .navbar-toggle {
+    padding: 4px 8px;
+    font-size: 14px;
   }
 }
 
