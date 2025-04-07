@@ -23,6 +23,34 @@ figcaption {
 
 /* Top navigation bar */
 
+.navbar-brand {
+  font-size: 2.5rem; /* Adjust this value */
+  padding: 1.2rem 1.2rem; /* Adjust for larger padding */
+}
+
+/* For mobile screens (max-width: 768px) */
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 1.5rem; /* Smaller font size */
+    padding: 1.2rem 1.2rem; /* Adjust padding */
+  }
+}
+
+
+
+.navbar {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: -0.2rem; /* Decrease this to shrink the space */
+  font-size: 1.4rem;
+}
+
+/* Adjust on mobile */
+@media (max-width: 768px) {
+  .navbar {
+    font-size: 1.2rem; /* Smaller font size for mobile */
+  }
+}
+
 
 p.byline {
 	text-align: center;
