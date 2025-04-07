@@ -7579,7 +7579,7 @@ figcaption {
 /* Adjust on mobile */
 @media (max-width: 768px) {
   .navbar {
-    font-size: 1.2rem; /* Smaller font size for mobile */
+    font-size: 0.8rem; /* Smaller font size for mobile */
   }
 }
 p.byline {
