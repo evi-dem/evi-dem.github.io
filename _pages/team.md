@@ -5,14 +5,15 @@ excerpt: "Team | EVIDEM - Evidence on Democracy and Markets Lab (Democracy and M
 sitemap: true
 permalink: /team/
 ---
-Test: {{ 2 | plus: 2 }}
 
 # Group Members
 
 ## Principal Investigators
+
 {% assign pis = site.data.team_members | where: "group", "pi" %}
 {% include team_grid.html members=pis %}
 
 ## Staff
+
 {% assign staff = site.data.team_members | where: "group", "staff" %}
 {% include team_grid.html members=staff %}
