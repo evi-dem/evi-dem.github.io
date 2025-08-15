@@ -1,7 +1,7 @@
 ---
-title: "EVIDEM - Evidence on Democracy and Markets Lab (Democracy and Markets Lab) | University of Münster and Aarhus University"
+title: "EVIDEM - Evidence on Democracy and Markets Lab | University of Münster and Aarhus University"
 layout: homelay
-excerpt: "EVIDEM - Evidence on Democracy and Markets Lab (Democracy and Markets Lab) | University of Münster and Aarhus University"
+excerpt: "EVIDEM - Evidence on Democracy and Markets Lab | University of Münster and Aarhus University"
 sitemap: true
 permalink: /
 ---

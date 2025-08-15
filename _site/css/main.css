@@ -4493,7 +4493,6 @@ tbody.collapse.in {
 }
 @media (min-width: 768px) {
   .navbar-header {
-    font-size: 1.2rem;
     float: left;
   }
 }
