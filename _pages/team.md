@@ -1,7 +1,7 @@
 ---
-title: "Team | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
+title: "Team | EVIDEM - Evidence on Democracy and Markets Lab (Democracy and Markets Lab) | University of Münster and Aarhus University"
 layout: gridlay
-excerpt: "Team | Evidence-based Comparative Politics Research Group | University of Münster and Aarhus University"
+excerpt: "Team | EVIDEM - Evidence on Democracy and Markets Lab (Democracy and Markets Lab) | University of Münster and Aarhus University"
 sitemap: true
 permalink: /team/
 ---
