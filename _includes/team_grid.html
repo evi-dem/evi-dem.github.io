@@ -8,8 +8,8 @@
 <h4>{{ member.name }}</h4>
 <i>{{ member.position }}</i><br>
 <i>{{ member.info }}</i><br>
-<i>email: <a href="mailto:{% if member.email %}{{ member.email }}{% endif %}">{% if member.email %}{{ member.email }}{% endif %}</a></i>
-
+<i>email: <a href="mailto:{% if member.email %}{{ member.email }}{% endif %}">{% if member.email %}{{ member.email }}{% endif %}</a></i><br>
+{% if member.website %}<i> website: <{{ member.website }}></i>{% else %}{% endif %} 
 <ul style="overflow: hidden">
 {% if member.number_educ %}
 {% for i in (1..member.number_educ) %}
