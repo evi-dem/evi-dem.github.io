@@ -10,6 +10,7 @@
 
 - name: Daniel Bischof
   photo: bischof.png
+  group: pi
   position: Professor & Associate Professor
   info: University of Münster & Aarhus University
   email: db@danbischof.com 
@@ -28,6 +29,7 @@
 
 - name: Kristian Vrede Skaaning Frederiksen
   photo: skaaning.jpg
+  group: staff
   position: Assistant Professor 
   info: Aarhus University
   email: ksf@ps.au.dk
@@ -36,6 +38,7 @@
  
 - name: Morgan Le Corre Juratic
   photo: juratic.jpg
+  group: staff
   position: Postdoc
   info: Aarhus University
   email: morgan.lcj@ps.au.dk
@@ -44,6 +47,7 @@
 
 - name: Elena Leuschner
   photo: leuschner.jpg
+  group: staff
   position: Postdoc
   info: University of Münster 
   email: elena.leuschner@uni-muenster.de
@@ -52,6 +56,7 @@
 
 - name: Mirko Wegemann
   photo: wegemann.png
+  group: staff
   position: Postdoc
   info: University of Münster
   email: m.wegemann@uni-muenster.de
@@ -60,6 +65,7 @@
 
 - name: Tim Lars Allinger
   photo: allinger.jpg
+  group: staff
   position: PhD Student
   info: Aarhus University
   email: allinger@ps.au.dk
@@ -68,6 +74,7 @@
 
 - name: Raphaël Lagrange
   photo: lagrange.jpg
+  group: staff
   position: Research Assistant
   info: Aarhus University 
   email: raphael.lagrange@sciencespo.fr
@@ -76,6 +83,7 @@
 
 - name: Maximilian Petersen
   photo: petersen.jpg
+  group: staff
   position: Research Assistant & Coordinating Tutor 
   info: University of Münster
   email: max.petersen@uni-muenster.de
@@ -84,6 +92,7 @@
   
 - name: Christopher Eing
   photo: eing.jpeg
+  group: staff
   position: Tutor 
   info: University of Münster
   email: christopher.eing@uni-muenster.de
@@ -92,6 +101,7 @@
   
 - name: Luka Johannes Foellmer
   photo: icon.png
+  group: staff
   position: Tutor 
   info: University of Münster
   email: lfoellme@uni-muenster.de
@@ -100,6 +110,7 @@
   
 - name: Henrike Jost
   photo: icon.png
+  group: staff
   position: Tutor 
   info: University of Münster
   email: hjost@uni-muenster.de
@@ -108,6 +119,7 @@
   
 - name: Pauline Jost
   photo: icon.png
+  group: staff
   position: Tutor 
   info: University of Münster
   email: pjost@uni-muenster.de
