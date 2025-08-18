@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   on major public concerns coming with it such as lack of representation 
   by political elites and the raise of extremism more generally.
 baseurl: ""
-url: "https://cevidem.github.io/"
+url: "https://evi-dem.github.io/"
 lang: en_GB
 
 include:
