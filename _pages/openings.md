@@ -1,7 +1,7 @@
 ---
-title: "Openings | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "Openings | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster"
 layout: textlay
-excerpt: "Openings | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+excerpt: "Openings | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster"
 sitemap: false
 permalink: /vacancies/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Teaching | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster and Aarhus University"
+title: "Teaching | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster"
 layout: gridlay
-excerpt: "Teaching | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster and Aarhus University"
+excerpt: "Teaching | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster"
 sitemap: true
 permalink: /teaching/
 ---

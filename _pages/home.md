@@ -1,7 +1,7 @@
 ---
-title: "EVIDEM - Evidence on Democracy and Markets Lab | University of Münster and Aarhus University"
+title: "EVIDEM - Evidence on Democracy and Markets Lab | University of Münster"
 layout: homelay
-excerpt: "EVIDEM - Evidence on Democracy and Markets Lab | University of Münster and Aarhus University"
+excerpt: "EVIDEM - Evidence on Democracy and Markets Lab | University of Münster"
 sitemap: true
 permalink: /
 ---
@@ -46,7 +46,7 @@ We are a research group seeking to understand contemporary political development
 </div>
 
 
-The group is led by [Daniel Bischof](https://www.danbischof.com/) and based at the [University of Münster](https://www.uni-muenster.de/en/) and [Aarhus University](https://international.au.dk/).    
+The group is co-led by [Thilo Albers](https://sites.google.com/site/tnhalbers/), [Daniel Bischof](https://www.danbischof.com/) and [Andreas Stegmann](https://www.andreas-stegmann.com/). We are based at the [University of Münster](https://www.uni-muenster.de/en/).    
 
 To learn more about our research projects and the individual areas of expertise of our team members, please look under [team]({{ site.url }}/team/) and [research]({{ site.url }}/research/)! 
 

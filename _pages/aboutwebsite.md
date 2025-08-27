@@ -1,7 +1,7 @@
 ---
-title: "About | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster and Aarhus University"
+title: "About | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster"
 layout: textlay
-excerpt: "About | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster and Aarhus University"
+excerpt: "About | EVIDEM - Evidence on Democracy and Markets Lab | University of Münster"
 sitemap: false
 permalink: /aboutwebsite.html
 ---

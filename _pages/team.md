@@ -1,7 +1,7 @@
 ---
-title: "Team | EVIDEM - Evidence on Democracy and Markets Lab (Democracy and Markets Lab) | University of Münster and Aarhus University"
+title: "Team | EVIDEM - Evidence on Democracy and Markets Lab (Democracy and Markets Lab) | University of Münster"
 layout: gridlay
-excerpt: "Team | EVIDEM - Evidence on Democracy and Markets Lab (Democracy and Markets Lab) | University of Münster and Aarhus University"
+excerpt: "Team | EVIDEM - Evidence on Democracy and Markets Lab (Democracy and Markets Lab) | University of Münster"
 sitemap: true
 permalink: /team/
 ---
