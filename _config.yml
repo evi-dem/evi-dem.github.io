@@ -12,13 +12,10 @@ tagline: >
   Comparative Politics, social norms, and experimental methods
 email: db@danbischof.com
 description: > # this means to ignore newlines until "baseurl:"
-  The EVIDEM - Evidence on Democracy and Markets Lab is based at the
-  Department of Political Science at the University of Münster as well as 
-  at Aarhus University. The group researches political developments in 
-  contemporary democracies. A major focus is put on the challenges to 
-  recent democracies, such as the erosion of democratic norms, as well as 
-  on major public concerns coming with it such as lack of representation 
-  by political elites and the raise of extremism more generally.
+The EVIDEM – Evidence on Democracy and Markets Lab is based at the University of Münster.
+It brings together scholars from political science, economics, and history to investigate how political institutions, economic structures, and history shape contemporary societies.
+
+Our research is united by a commitment to data-driven analysis of core questions at the center of contemporary policy debates. We seek to understand how political and economic forces interact across time and contexts, and how they shape people's lives.
 baseurl: ""
 url: "https://evi-dem.github.io/"
 lang: en_GB
