@@ -1,4 +1,4 @@
-name: Deploy Jekyll site
+name: Build and Deploy Jekyll Site
 
 on:
   push:
@@ -10,22 +10,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout source
+      # Step 1: Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Needed to push to gh-pages
 
+      # Step 2: Set up Ruby
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2 # match your local Ruby version
+          ruby-version: 3.2  # Match your local Ruby version
 
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: |
           gem install bundler
           bundle install
 
+      # Step 4: Clean and build Jekyll site
       - name: Build site
-        run: bundle exec jekyll build --trace
+        run: |
+          bundle exec jekyll clean
+          bundle exec jekyll build
 
+      # Step 5: Deploy to gh-pages
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
