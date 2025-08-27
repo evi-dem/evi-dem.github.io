@@ -82,13 +82,15 @@
 
 - name: Kukyoung Heo
   photo: kukyoung.jpg
+  group: staff
   position: PhD Student
   info: University of Münster
   email: kukyoung.heo@uni-muenster.de
   bio: Kukyoung is a doctoral researcher at the Department of Economics at the University of Münster. He holds an MSc in Economics from LMU Munich and a BSc/MSc in Economic History from the London School of Economics. His research lies at the intersection of economics, economic history, and political science. Current projects range from constructing a cross-country database to study long-run patterns of labor and capital taxation since the 19th century, to applying text analysis methods to parliamentary debates. In his work, he applies diverse methods including econometric modeling, panel data analysis, and text analysis.
 
-  - name: Julius Reiner Hinderfeld
+- name: Julius Reiner Hinderfeld
   photo: hinderfeld.jpg
+  group: staff
   position: PhD Student
   info: University of Münster (starting 2025)
   email: juliushinderfeld@uni-muenster.de
