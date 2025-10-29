@@ -23,7 +23,7 @@
   position: Professor 
   info: University of Münster  
   email: andreas.stegmann@uni-muenster.de
-  bio: 
+  bio: Andreas is Professor and Chair of Political Economy at the University of Münster. Previously, he was Associate Professor of Economics at the University of Warwick. He is a J-PAL Affiliate and a Research Associate at CAGE. He received his PhD from CEMFI in Madrid. His research focuses on applied microeconomics, with a particular emphasis on political economy and development economics.
   website: https://www.andreas-stegmann.com/
 
 
@@ -96,6 +96,14 @@
   info: University of Münster (starting 2025)
   email: juliushinderfeld@uni-muenster.de
   bio: Julius is a PhD student at the University of Münster since June 2025. His work focuses on economic history, urban economics and theories of city growth and structural change.
+
+- name: Patricia Puspitasari
+  photo: icon.jpg
+  group: staff
+  position: PhD Student
+  info: University of Münster
+  email: patricia.puspitasari@uni-muenster.de
+  bio: Patricia is a doctoral student at the Chair of Political Economy at the University of Münster. She holds two Master’s degrees in Economics, from the University of Bonn and Universitas Diponegoro. She has gained research experience as a research assistant at institutions such as J-PAL, EconTribute, and ZEF. Her research interests include Development Economics, Behavioral Economics, and Political Economy. She has particular experience with laboratory experiments and a regional focus on Indonesia, while remaining open to a broad range of empirical and experimental methods.
 
 - name: Raphaël Lagrange
   photo: lagrange.jpg
